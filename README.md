@@ -1,8 +1,8 @@
 # Business Intelligence | Instacart Customer Order Prediction
 This is a supervised learning project that helps predict the next purchase of an InstaCart customer
 
-<<<<<<< HEAD
-This is a work in progress. To see my current work, please . navigate to:  
+
+This is a work in progress. To see my current work, please navigate to:  
 
 ## Exploratory Data Analysis  
 * Establishes a data dictionary and the entity relationship diagram to gain a firm understanding of the data 3 million data points.  
@@ -18,6 +18,3 @@ This is a work in progress. To see my current work, please . navigate to:
 
 ## Model Building and Hyperparameter Optimization
 * Currently in progress
-=======
-This is a work in progress. To see my current work, please . navigate to the [instacart.ipynb](https://github.com/nazra-inari/Business_Intelligence_Instacart_Customer_Purchase_Prediction/blob/master/instacart.ipynb) file
->>>>>>> feddc302d683722806e5d4ed139926a031960078
