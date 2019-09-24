@@ -24,7 +24,7 @@ This is a work in progress. To see my current work, please navigate to:
 ## Convert Jupyter Notebooks to Python Scripts
 * Up next  
 
-## Create a Make File to automate project pipeling
+## Create a Make File to automate project pipeline
 * Coming Soon  
 
 ## Initialize EC2 Instance on AWS with necessary requirements, libraries and packages installed
