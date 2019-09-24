@@ -7,7 +7,7 @@ This is a multi-label supervised learning project that helps predict the next pu
 This is a work in progress. To see my current work, please navigate to:  
 
 ## [Exploratory Data Analysis](https://github.com/nazra-inari/Business_Intelligence_Instacart_Customer_Purchase_Prediction/blob/master/Exploratory%20Data%20Analysis.ipynb)  
-* Establishes a data dictionary and the entity relationship diagram to gain a firm understanding of the data 3 million data points.  
+* Establishes a data dictionary and the entity relationship diagram to gain a firm understanding of the 30 million data points.  
 * Analyze the information in all seven tables of the schema and drive data insights via data visualizations  
 * Gain an understanding of the important features embedded in the data    
 ## [Data and Feature Engineering](https://github.com/nazra-inari/Business_Intelligence_Instacart_Customer_Purchase_Prediction/blob/master/Data%20and%20Feature%20Engineering.ipynb)
