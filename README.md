@@ -20,3 +20,15 @@ This is a work in progress. To see my current work, please navigate to:
 
 ## Model Building and Hyperparameter Optimization
 * Currently in progress
+
+## Convert Jupyter Notebooks to Python Scripts
+* Up next  
+
+## Create a Make File to automate project pipeling
+* Coming Soon  
+
+## Initialize EC2 Instance on AWS with necessary requirements, libraries and packages installed
+* Coming Soon  
+
+## Deploy Project to Cloud
+* Coming Soon  
